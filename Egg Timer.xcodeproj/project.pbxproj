@@ -13,6 +13,7 @@
 		6CA951FE254942AA00796794 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CA951FC254942AA00796794 /* Main.storyboard */; };
 		6CA95200254942AB00796794 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CA951FF254942AB00796794 /* Assets.xcassets */; };
 		6CA95203254942AB00796794 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6CA95201254942AB00796794 /* LaunchScreen.storyboard */; };
+		6CA9520D25495D5600796794 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6CA9520C25495D5600796794 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6CA951FF254942AB00796794 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6CA95202254942AB00796794 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6CA95204254942AB00796794 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6CA9520C25495D5600796794 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		6CA951F5254942AA00796794 /* Egg Timer */ = {
 			isa = PBXGroup;
 			children = (
+				6CA9520C25495D5600796794 /* alarm_sound.mp3 */,
 				6CA951F6254942AA00796794 /* AppDelegate.swift */,
 				6CA951F8254942AA00796794 /* SceneDelegate.swift */,
 				6CA951FA254942AA00796794 /* ViewController.swift */,
@@ -126,6 +129,7 @@
 			files = (
 				6CA95203254942AB00796794 /* LaunchScreen.storyboard in Resources */,
 				6CA95200254942AB00796794 /* Assets.xcassets in Resources */,
+				6CA9520D25495D5600796794 /* alarm_sound.mp3 in Resources */,
 				6CA951FE254942AA00796794 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

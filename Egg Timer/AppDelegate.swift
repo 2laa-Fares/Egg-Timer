@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Egg Timer
 //
-//  Created by Abdullah elotabi on 10/28/20.
+//  Created by 2laa Ewis on 10/28/20.
 //
 
 import UIKit
